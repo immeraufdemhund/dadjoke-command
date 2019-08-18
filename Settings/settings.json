@@ -1,0 +1,7 @@
+﻿{
+  "Command": "!dadjoke",
+  "Permission": "everyone",
+  "Info": "I am a dad joke.. hear me rawr",
+  "Cooldown": 4.0,
+  "Response": "!dadjoke"
+}
